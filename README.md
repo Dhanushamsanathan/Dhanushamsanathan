@@ -1,9 +1,9 @@
 <h1 align="center">Hi, Dhanush</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushamsanathan&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushamsanathan" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **AI/ML Engineer**
 
 - 📫 How to reach me **dhanushamsanathan@gamil.com**
 
